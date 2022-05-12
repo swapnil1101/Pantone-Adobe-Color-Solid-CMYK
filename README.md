@@ -1,6 +1,6 @@
 # Pantone-Adobe-Color-Solid-&-CMYK
 
-Pantone color libraries
+Pantone color libraries v4, (Pantone Removed Pantone+ branding after v3)
 
 Pantone color libraries as .acb files for Adobe Photoshop, Illustrator etc, downloaded with Pantone Color Manager in February 2020.
 
