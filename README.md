@@ -1,0 +1,1 @@
+# Pantone-Adobe-Color-Solid-CMYK
