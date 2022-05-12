@@ -8,4 +8,4 @@ To use the colour libraries, copy the .acb files to the Color Books folder of th
 
 CMYK Color Bridge COntains CMYK data.
 
-Solid Color Containes L*a*b* data.
+Solid Color Containes L.a.b. data.
