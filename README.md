@@ -6,6 +6,6 @@ Pantone color libraries as .acb files for Adobe Photoshop, Illustrator etc, down
 
 To use the colour libraries, copy the .acb files to the Color Books folder of the target application e.g. /Applications/Adobe Photoshop CC/Presets/Color Books, /Applications/Adobe Illustrator CC/Presets/en_GB/Swatches/Color Books or the equivalent C:\Program Files\Adobe\etc folder on Window
 
-CMYK Color Bridge contains CMYK data.
+CMYK Color Bridge contains CMYK data. ( PANTONE Color Bridge Coated-V4.acb )
 
-Solid Color contains L.a.b. data.
+Solid Color contains L.a.b. data. ( PANTONE Solid Coated-V4.acb )
